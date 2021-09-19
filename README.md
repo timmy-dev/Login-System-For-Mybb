@@ -47,3 +47,11 @@ This is all you have to do to make it work with your site.
 **Images**
 ---------------
 ![Login Page](https://cdn.discordapp.com/attachments/889248873426595880/889248904871292938/loginsystem.PNG)
+![Main Page](https://cdn.discordapp.com/attachments/889248873426595880/889249288205500446/MainPage.PNG)
+
+**Nicer Login System Design**
+------------------------------
+If you want a nicer login design join https://discord.gg/BwDzySedrU and dm me we can work out a price! Crypto maybe paypal
+
+
+**HAVE A GOOD DAY**
