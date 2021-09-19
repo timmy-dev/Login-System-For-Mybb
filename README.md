@@ -54,4 +54,9 @@ This is all you have to do to make it work with your site.
 If you want a nicer login design join https://discord.gg/BwDzySedrU and dm me we can work out a price! Crypto maybe paypal
 
 
+Nice Style Image
+-----------------
+![Paid Image](https://user-images.githubusercontent.com/71015269/133944935-639d5eaf-8e2a-41f5-943e-f2d216a7e6e8.png)
+
+
 **HAVE A GOOD DAY**
