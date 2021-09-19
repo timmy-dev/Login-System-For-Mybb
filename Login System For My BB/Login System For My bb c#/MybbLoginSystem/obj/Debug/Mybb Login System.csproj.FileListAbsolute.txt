@@ -1,0 +1,14 @@
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\bin\Debug\MyBB Login System c#.exe.config
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\bin\Debug\MyBB Login System c#.exe
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\bin\Debug\MyBB Login System c#.pdb
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\MybbLoginSystem.Form1.resources
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\MybbLoginSystem.Form4.resources
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\MybbLoginSystem.Properties.Resources.resources
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\Mybb Login System.csproj.GenerateResource.cache
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\Mybb Login System.csproj.CoreCompileInputs.cache
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\Mybb Login System.csproj.Fody.CopyLocal.cache
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\Mybb Login System.csproj.CopyComplete
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\MyBB Login System c#.exe
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\MyBB Login System c#.pdb
+C:\Users\Arminius\Desktop\Login System For My bb c#\MybbLoginSystem\obj\Debug\Mybb Login System.csproj.AssemblyReference.cache
