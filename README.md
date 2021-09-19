@@ -62,6 +62,7 @@ Nice Style Image
 
 Buy Paid Design 
 --------------------------------
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://gumroad.com/l/ajwPf">Loading...</a></div>
+MyBB Login Glasmorphim design
+https://therealarminius.gumroad.com/l/ajwPf
+
 **HAVE A GOOD DAY**
